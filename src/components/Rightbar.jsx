@@ -3,7 +3,9 @@ import React from 'react'
 
 const Rightbar = () => {
   return (
-    <Box>
+    <Box
+      flex={2}
+    >
       Rightbar
     </Box>
   )

@@ -3,7 +3,9 @@ import React from 'react'
 
 const Feed = () => {
   return (
-    <Box>
+    <Box
+      flex={4}
+    >
         Feed
     </Box>
   )
